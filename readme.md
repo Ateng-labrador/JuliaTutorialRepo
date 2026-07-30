@@ -1,5 +1,5 @@
-<center>
-![banner](.github/banner.png)
-</center>
+<p align="center"><img src=".github/banner.png" alt="Banner" width="100%">
+</p>
+
 
 Julia merupakan bahasa pemrograman modern yang dirancang untuk memberikan performa tinggi tanpa mengorbankan kemudahan dalam penulisan kode. Melalui repositori ini, Anda akan mempelajari Julia secara bertahap, mulai dari sintaks dasar, struktur data, fungsi, hingga berbagai penerapannya dalam komputasi ilmiah dan numerik.
