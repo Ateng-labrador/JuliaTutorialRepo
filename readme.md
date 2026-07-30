@@ -1,5 +1,5 @@
 # JuliaRepositori
-<p align="center"><img src=".github/banner.png" alt="Banner" width="50%">
+<p align="center"><img src=".github/banner.png" alt="Banner" width="40%">
 </p>
 
 ### Selamat Datang Di julia
