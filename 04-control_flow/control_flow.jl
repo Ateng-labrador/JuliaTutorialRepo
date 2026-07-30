@@ -3,13 +3,13 @@
 x = 5
 y = 6
 
-# if x < y
-#     println("x kurang dari y")
-# elseif x > y
-#     println("x lebih besar dari y")
-# else
-#     println("x dan y sama besar")
-# end
+if x < y
+    println("x kurang dari y")
+elseif x > y
+    println("x lebih besar dari y")
+else
+    println("x dan y sama besar")
+end
 
 
 # Looping
